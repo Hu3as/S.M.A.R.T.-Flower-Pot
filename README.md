@@ -2,7 +2,7 @@
 Auto-watering pot
 
 
-#Power & Logic Schematic:
+# Power & Logic Schematic:
 
 ## Main Controller 
 ![image](https://user-images.githubusercontent.com/31997587/202823429-de6e267f-aff8-4a38-a13e-3092dc41f192.png)
