@@ -1,6 +1,10 @@
 # S.M.A.R.T.-Flower-Pot
 Auto-watering pot
 
+# CAD Construction:
+
+## Update 1: preliminary design of a flowerpot
+![image](https://user-images.githubusercontent.com/31997587/203432840-6af54788-390c-4561-8ea3-141db300290b.png)
 
 # Power & Logic Schematic:
 
