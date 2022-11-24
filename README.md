@@ -8,6 +8,8 @@ Auto-watering pot
 
 ## update 2: initial shape of the leg
 ![image](https://user-images.githubusercontent.com/31997587/203857699-36be1c8a-a324-485c-89e1-971a943de784.png)
+## update 3:
+![image](https://user-images.githubusercontent.com/31997587/203872897-0253431e-b72a-4d8b-8b3a-eae6fee61a40.png)
 
 
 # Power & Logic Schematic:
